@@ -9,3 +9,4 @@ dependencies:
   - geopandas
   - contextily
   - rasterio
+  - scipy
