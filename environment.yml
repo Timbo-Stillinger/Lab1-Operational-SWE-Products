@@ -1,0 +1,11 @@
+name: Lab1-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - contextily
+  - rasterio
